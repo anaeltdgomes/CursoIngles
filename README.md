@@ -9,3 +9,5 @@ Este projeto simula um site de um curso de inglês usando Java Server Pages e Re
 * Animação de Scroll com CSS e Javascript.
 
 Os arquivos neste repositório não são para instalação, apenas para visualização de código.
+Caso esteja interessado, segue abaixo o arquivo .war do projeto.
+[Download War](https://github.com/anaeltdgomes/CursoIngles/blob/main/Curso.war)
